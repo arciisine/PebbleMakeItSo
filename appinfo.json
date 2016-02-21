@@ -1,0 +1,25 @@
+{
+  "uuid": "0593a600-358b-46be-ba73-7810d39d098a",
+  "shortName": "MakeItSo",
+  "longName": "MakeItSo",
+  "companyName": "ArcSine Technologies, LLC",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "Count" : 0
+  },
+  "actionKeys" : [
+    "Start",
+    "Stop",
+    "Timer",
+    "Steps"
+  ],
+  "resources": {
+    "media": []
+  }
+}
